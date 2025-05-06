@@ -1,0 +1,53 @@
+{
+    "sumar.cpp" : {
+        "filename": "sumar.cpp",
+        "tests": [
+            {
+                "expected_output": "10",
+                "obtained_output": "",
+                "score": 0
+            }
+        ]
+    },
+    "multiplicar.cpp" : {
+        "filename": "multiplicar.cpp",
+        "tests": [
+            {
+                "inputs": ["2", "2", "3", "4", "5"],
+                "expected_output": "240",
+                "obtained_output": ""
+            }
+        ],
+        "score": 0
+    },
+    "quicksort.cpp" : {
+        "filename": "quicksort.cpp",
+        "tests": [
+            {
+                "expected_output": "11 12 22 25 34 64 90 ",
+                "obtained_output": ""
+            },
+            {
+                "expected_output": "11 12 22 25 34 64 0 ",
+                "obtained_output": ""
+            }
+        ],
+        "score": 0
+    },
+    "tunombrees.cpp" : {
+        "filename": "tunombrees.cpp",
+        "tests": [
+            {
+                "inputs": ["Mario"],
+                "expected_output": "Dime tu nombre\nTu nombre es: Mario\n",
+                "obtained_output": ""
+            },
+            {
+                "inputs": ["Jua"],
+                "expected_output": "Dime tu nombre\nTu nombre es: Juan\n",
+                "obtained_output": ""
+            }
+        ],
+        "score": 0
+    }
+}
